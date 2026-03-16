@@ -1,6 +1,6 @@
 # 27C4001 EPROM to 32P SNES/SFC Maskrom Adapter 
 
-Adapts the 27C4001 pinout to the SNES Maskrom.
+Adapts the 27C4001 pinout to the SNES/SFC 32 Pin Maskrom.
 
 | MASKROM        | EPROM           
 | ------------- |:-------------:
