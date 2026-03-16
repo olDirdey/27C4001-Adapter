@@ -15,4 +15,5 @@ PCB Thickness: max 0.8mm
 
 # Installation:
 
-If the circuit board has vias on the top side, you can solder the adapter directly onto it. If the cart does not have vias, additional pins must be soldered to the bottom of the adapter to establish a connection to the bottom vias of the cartridge.
+Cut the 5 pins of the EPROM to the appropriate length and solder the EPROM to the adapter. If the cart has vias on the top side, you can solder the adapter directly onto it. 
+If the cart does not have vias, additional pins must be soldered to the bottom of the adapter to establish a connection to the bottom vias of the cartridge.
